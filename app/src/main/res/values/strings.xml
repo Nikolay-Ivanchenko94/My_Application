@@ -1,0 +1,9 @@
+<resources>
+    <string name="logotextView">Sofia Massage</string>
+    <string name="editTextTextEmailAddress">Номер телефону або Емаіл*</string>
+    <string name="editTextTextPassword">Пароль*</string>
+    <string name="button">Увійти</string>
+    <string name="textView2">Немає акаунту?</string>
+    <string name="button2">Зарєструйтесь</string>
+
+</resources>
